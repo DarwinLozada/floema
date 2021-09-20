@@ -1,8 +1,10 @@
 /*!******************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./styles/index.scss ***!
   \******************************************************************************************************************************************************/
-.button {
-  color: white;
+.home {
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
 }
 
-/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5jc3MiLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtBQUNGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vZmxvZW1hLy4vc3R5bGVzL2luZGV4LnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLmJ1dHRvbiB7XG4gIGNvbG9yOiB3aGl0ZVxufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5jc3MiLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7QUNDRiIsInNvdXJjZXMiOlsid2VicGFjazovL2Zsb2VtYS8uL3N0eWxlcy9wYWdlcy9ob21lL2hvbWUuc2NzcyIsIndlYnBhY2s6Ly9mbG9lbWEvLi9zdHlsZXMvaW5kZXguc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIuaG9tZSB7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgYmFja2dyb3VuZC1jb2xvcjogYXF1YTtcbn1cblxuLmhvbWVfX3dyYXBwZXIge1xufVxuXG4uaG9tZV9fdGl0bGVzIHtcbn1cblxuLmhvbWVfX3RpdGxlc19fbGFiZWwge1xufVxuXG4uaG9tZV9fdGl0bGVzX190aXRsZSB7XG59XG5cbi5ob21lX19nYWxsZXJ5IHtcbn1cblxuLmhvbWVfX2dhbGxlcnlfX21lZGlhIHtcbn1cblxuLmhvbWVfX2dhbGxlcnlfX21lZGlhX19pbWFnZSB7XG59XG5cbi5ob21lX19saW5rIHtcbn1cbiIsIi5ob21lIHtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBhcXVhO1xufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

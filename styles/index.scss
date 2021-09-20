@@ -1,3 +1,11 @@
-.button {
-  color: white
-}
+@import './pages/home/home.scss';
+@import './pages/about/about';
+@import './pages/collections/collections';
+@import './pages/detail/detail';
+
+@import './pages/about/gallery';
+@import './pages/about/content';
+@import './pages/about/highlight'
+
+
+

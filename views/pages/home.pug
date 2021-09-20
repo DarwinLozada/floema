@@ -7,8 +7,8 @@ block content
   .home
     .home__wrapper
       .home__titles
-        each collection, index in collection
-          .home__titles__label=`{home.data.collection} ${Numbers(index)}`
+        each collection, index in collections
+          .home__titles__label=`${home.data.collection} ${Numbers(index)}`
           .home__titles__title=collection.data.title
 
 
