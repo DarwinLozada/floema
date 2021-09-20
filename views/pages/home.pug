@@ -1,0 +1,20 @@
+extends ../base
+
+block variables
+  - var template = 'home'
+
+block content
+  .home
+    .home__wrapper
+      .home__titles
+        each collection, index in collection
+          .home__titles__label=`{home.data.collection} ${Numbers(index)}`
+          .home__titles__title=collection.data.title
+
+
+    .home__gallery
+      each media in home.data.gallery
+        figure.home__gallery__media
+          img.home__gallery__media__image(alt=media.image.alt src=media.image.url)
+
+    a.home__link(href='/collections')=home.data.button

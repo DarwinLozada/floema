@@ -1,0 +1,27 @@
+.detail
+.detail__wrapper 
+.detail__media
+    .detail__media__image
+  
+  .detail__information
+ .data.collection.data.title
+
+   .data.title
+
+    .detail__information__content
+      .detail__information__highlights
+  .data.highlights
+          .detail__information__highlight__wrapper
+            .detail__information__highlight
+              .detail__information__highlight__icon
+                use(xlink:href=`sprite-${highlight.highlight_icon.toLowerCase()}`)
+
+              .detail__information__highlight__text
+            
+      .detail__information__list
+      
+          .detail__information__item__title
+            .detail__information__item__title
+            .detail__information__item__description
+
+      .detail__information__link
